@@ -22,4 +22,4 @@ Product and architecture builds across private markets, insurance and data gover
 - [AI-ready data warehouse](https://github.com/kakali-bandyopadhyay/ai-ready-data-warehouse)
 - [Private-credit allocation engine](https://github.com/kakali-bandyopadhyay/private-credit-allocation-engine)
 
-10+ years in financial services — PwC US, Deloitte UK, Fidelity Investments.
+10+ years in financial services technology — PwC US, Deloitte UK, Fidelity Investments.
