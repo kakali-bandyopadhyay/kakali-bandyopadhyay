@@ -8,7 +8,7 @@ Research and systems work for systematic trading — pre-registered studies, mea
 A pre-registered test of time-series momentum across a cross-asset ETF panel, 2011–2026.
 Effective breadth was measured at B = 4.04 before the test, so the claim is scoped to an
 exclusion bound at 0.77 realised Sharpe rather than a point estimate.
-[OSF registration](https://osf.io/e9aw3/)
+[OSF pre-registration](https://doi.org/10.17605/OSF.IO/W86XT)
 
 **[trading-path-latency](https://github.com/kakali-bandyopadhyay/trading-path-latency)** —
 A C++ market-data → features → inference path, benchmarked against a latency budget
