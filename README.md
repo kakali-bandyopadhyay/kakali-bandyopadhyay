@@ -11,8 +11,8 @@ exclusion bound at 0.77 realised Sharpe rather than a point estimate.
 [OSF pre-registration](https://doi.org/10.17605/OSF.IO/W86XT)
 
 **[trading-path-latency](https://github.com/kakali-bandyopadhyay/trading-path-latency)** —
-A C++ market-data → features → inference path, benchmarked against a latency budget
-pre-registered before any optimisation.
+A C++ market-data → features → inference path. The latency budget is pre-registered and
+published before implementation; the build is in progress.
 
 ## Earlier
 
