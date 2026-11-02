@@ -14,7 +14,7 @@ exclusion bound at 0.77 realised Sharpe rather than a point estimate.
 A C++ market-data → features → inference path. The latency budget is pre-registered and
 published before implementation; the build is in progress.
 
-## Earlier
+## AI architecture and product builds (financial services)
 
 Product and architecture builds across private markets, insurance and data governance:
 
