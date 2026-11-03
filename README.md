@@ -5,9 +5,7 @@ Research and systems work for systematic trading — pre-registered studies, mea
 ## Current
 
 **[tsmom-panel-study](https://github.com/kakali-bandyopadhyay/tsmom-panel-study)** —
-A pre-registered test of time-series momentum across a cross-asset ETF panel, 2011–2026.
-Effective breadth was measured at B = 4.04 before the test, so the claim is scoped to an
-exclusion bound at 0.77 realised Sharpe rather than a point estimate.
+A pre-registered test of time-series momentum on an 18-instrument cross-asset ETF panel. Effective breadth measured first (B = 4.04); the pre-declared gate failed, and the narrowed claim was withdrawn after the run (t = 2.079 vs size-corrected 2.152). Estimate reported as an interval the design cannot resolve: +0.53 (95% CI 0.04–1.05).
 [OSF pre-registration](https://doi.org/10.17605/OSF.IO/W86XT)
 
 **[trading-path-latency](https://github.com/kakali-bandyopadhyay/trading-path-latency)** —
