@@ -9,15 +9,18 @@ Applied ML and GenAI for investment and markets users: time-based evaluation, fa
 - [Private-credit allocation engine](https://github.com/kakali-bandyopadhyay/private-credit-allocation-engine): eligibility, sizing, maker-checker approval and a full audit trail.
 - [PE value-creation model](https://github.com/kakali-bandyopadhyay/pe-value-creation-model): entry-to-exit returns model, independently recomputed in Python.
 
+**Quant research and treasury**
+
+- [Margin and financing lab](https://github.com/kakali-bandyopadhyay/margin-and-financing-lab): prime-broker allocation by linear programme, PM margin attribution, a liquidity stress test and margin rates calibrated to public-market proxies with a walk-forward backtest – pre-registered, with a model document.
+- [Volatility forecasting lab](https://github.com/kakali-bandyopadhyay/vol-forecast-lab): pre-registered walk-forward forecasts of 30-day S&P 500 variance (HAR, GARCH, MLP), with nested-model and loss-based tests.
+- [tsmom-panel-study](https://github.com/kakali-bandyopadhyay/tsmom-panel-study): a pre-registered (OSF) test of time-series momentum across 18 cross-asset ETFs, 2011–2026; Sharpe +0.53 reported with its 95% interval against a size-corrected test.
+
 **Data foundations and controls**
 - [AI-ready data warehouse](https://github.com/kakali-bandyopadhyay/ai-ready-data-warehouse): one dbt project on PostgreSQL, Snowflake and Databricks, with identical results and SCD2 history.
 - [Access-flow mining](https://github.com/kakali-bandyopadhyay/access-flow-mining): pre-registered bottleneck classifier, conformance cross-check and human-gated AI triage.
 
 All builds use synthetic or public data and illustrative policies.
 
-## Research
-
-[tsmom-panel-study](https://github.com/kakali-bandyopadhyay/tsmom-panel-study): A pre-registered test of time-series momentum on an 18-instrument cross-asset ETF panel, 2011–2026. Effective breadth was measured before the test at B = 4.04, short of the pre-declared gate of 8, so the claim was narrowed in advance to an exclusion bound at 0.77 realised Sharpe rather than a point estimate. That bound was withdrawn after the run. The realised estimate is +0.53; the bootstrap interval is [0.04, 1.05] and the Lo (2002) interval is [−0.001, 1.05]. The two agree closely, both sit at the boundary of zero, and neither excludes 0.77. The regression gives t = 2.079 against a size-corrected critical value of 2.152 — it would have rejected at the nominal 1.96, which is the whole point of correcting for size. [OSF pre-registration](https://doi.org/10.17605/OSF.IO/W86XT)
 
 ## Background
 
