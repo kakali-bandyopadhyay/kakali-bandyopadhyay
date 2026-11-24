@@ -9,7 +9,7 @@ Applied ML and GenAI for investment and markets users: time-based evaluation, fa
 - [Private-credit allocation engine](https://github.com/kakali-bandyopadhyay/private-credit-allocation-engine): eligibility, sizing, maker-checker approval and a full audit trail.
 - [PE value-creation model](https://github.com/kakali-bandyopadhyay/pe-value-creation-model): entry-to-exit returns model, independently recomputed in Python.
 
-**Quant research and treasury**
+**Quant research**
 
 - [Margin and financing lab](https://github.com/kakali-bandyopadhyay/margin-and-financing-lab): prime-broker allocation by linear programme, PM margin attribution, a liquidity stress test and margin rates calibrated to public-market proxies with a walk-forward backtest – pre-registered, with a model document.
 - [Volatility forecasting lab](https://github.com/kakali-bandyopadhyay/vol-forecast-lab): pre-registered walk-forward forecasts of 30-day S&P 500 variance (HAR, GARCH, MLP), with nested-model and loss-based tests.
